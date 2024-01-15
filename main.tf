@@ -1,5 +1,5 @@
-resource "google_compute_instance" "app-server" {
-  name         = "app-server"
+resource "google_compute_instance" "test-server" {
+  name         = "test-server"
   machine_type = "n2-standard-2"
   zone         = "us-central1-a"
 boot_disk {
