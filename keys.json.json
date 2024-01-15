@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "shelly-project-409604",
+  "private_key_id": "e3650510096bfcef7f99ea602702a7a26547c334",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDoJ07F/LWbOD4w\nX/u/NMwOPCYn4lucyO6yWfQrjUe47w3BGCrcxBP+gKaOhYGCPEjUEuh16w0XqEDy\n+JhU+BMWhf8Wzj1grpGxl/l9dHQp7IuHEQE5mZWUwhREettNIxIBt4cgMlx8l6M3\nPPZf/F799VOpUfUHG4XW4P9j2PQlQh/mbl2osef3aMxfsqQ5SWLemuPSOu5KMlmr\n3io9CoWTI4BknmdtKyx4jj0qHHHelvRpuSjeNBImj3YVuMUl40xzpTDNFuIFTbFo\nzFysRwcrkCFvVRhBb9+bnyMp69NyrRGOjQLjct7sqlFaJk4z6MygTB0zJUslfSbj\no5FxWlZ/AgMBAAECggEABILbB4LhHoqJvtPmpvEGNBKcJTNDV3kaFlIkKgJ9Tc0r\nZcCr+I1A3DWwxt02RosYWTKi3MO8BeUpme8VurT1Xf8tlUpdq/bIcvyChxsPtM7Z\naT792Jow62qYDTqb71RKocjoscn4vR0POWAQY44aZHHzdbtXeRNiVuoZXF3XZK/q\nR0jtvWZs7wMJyLhwV7JDuQqdJV4FKIq99OYvp6sni3/l0mbou3W+AvUrArMoj419\ndhVFdQRCYXU9/GxkSd5wEbZjt5kIdon5MyN+2ZVbwR32KkDkV9CYbCLXjoh2BUY5\n3LvRbwEItvOxA8gl/wtwsSKVUGiByW6EGwnMPxTX2QKBgQD68leUG6ZuQa8iaRBN\n/enZKLpeHzHzWUexSagM3NNl97qNjQRN23jwNof41ikxOzfM1G5+cPA+3pP5m3Df\nAMVVt392JWI8AUtQ6usUJnVLq2h1emi83VyWhSJN1fZlwOihDqxap8xvoE+6q7CB\nGF7BdtKRyeegbq3zMI2N9VMzWQKBgQDs1BXG+Nv3qXf4nG51905d7UqF53fWizha\nQjhqZWExxLszti+h4zcdqZ1XJmKQzZNqz1cFOvdbh5Ss4/EdrMK2eoW7D0gVxM0O\n9Isl7mihkugxZC1EbteimJhvVcOqQT8inLATtuHkmMK5XOnVtnBD72zKO1f2G/Zk\nvNrbND7VlwKBgE10Z1urfR8i3u98BjBMYtVIIN3UOxKlR9+MoHX34rfiUo5GLEHr\nr9RUwHspfuVXJc3u83vLWBvPj1THiXsLPd1LGehZeYyTya9cEtrRU/rbGQ7JjXJd\n0KoUxZXIqJiXhjXP1ZrVl+AMVw+C1qPB5d1I0410CC4Ye1BIeCiMw/VhAoGAUjUI\nXinySRTFdUHvwfkXddkxniuL2Kg45nPIG36Xb2wnwzqBbENv1VcUK7VCT5tciZ3x\nSfp+9IGqpRz2jGN0r1z2YMlcL1pCB+fxCTipjzRsbwCkCfYj2ef4OeVeZxIA9WXI\nZP99iBlStn8/GBUdASfx7n0M+nwYWj2IBsEq8n8CgYAz5THBhIHaEUHfB76uWpWp\nOpWyT8rqyYviS2s2Z2CYjoRm1fkEvolkG5mfzfd9NVB17a835e9IJtZ+kI2+ARyA\nXsxwquRFX5BnBbrvgZRzkxhHptBJTBDZxhWqT538/LRV11S/xthyuiAHjVmLJ8/Y\nA6pOitcA5ws616n8iKpGWQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "service-shelly@shelly-project-409604.iam.gserviceaccount.com",
+  "client_id": "104933325793035951454",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service-shelly%40shelly-project-409604.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
